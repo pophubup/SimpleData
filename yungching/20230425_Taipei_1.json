@@ -1,7 +1,16 @@
- [{
-       "porpertyName" : "xxxx",
-       "price" : 123456,
-       "agent" : "xxx",
-       "desc" : "yyy ggg cccc",
-       "address" : "cccc"
- }]
+[
+	{
+		"porpertyName": "xxxx",
+		"price": 123456,
+		"agent": "xxx",
+		"desc": "yyy ggg cccc",
+		"address": "cccc"
+	},
+	{
+		"porpertyName": "xxxx",
+		"price": 123456,
+		"agent": "xxx",
+		"desc": "yyy ggg cccc",
+		"address": "cccc"
+	}
+]
